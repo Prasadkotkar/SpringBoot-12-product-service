@@ -22,6 +22,9 @@ It is the product service of the product order application created in the micros
 - Lombok
 - Postman
 
+## API Endpoints
+- <a href="Postman.md">Postman.md</a>
+
 ## Connect with me:
 <p align="center">
 <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/><a href="https://www.linkedin.com/in/prasad-kotkar-151518148">LinkedIn</a>
